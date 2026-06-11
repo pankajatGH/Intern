@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1781161134566,
+    "sender": "Cr7",
+    "text": "Hello",
+    "timestamp": "12:43:54 PM"
+  },
+  {
+    "id": 1781161141134,
+    "sender": "Messi",
+    "text": "Hi",
+    "timestamp": "12:44:01 PM"
+  },
+  {
+    "id": 1781161152323,
+    "sender": "Cr7",
+    "text": "How are you doing?",
+    "timestamp": "12:44:12 PM"
+  },
+  {
+    "id": 1781161164099,
+    "sender": "Messi",
+    "text": "Its Going well.",
+    "timestamp": "12:44:24 PM"
+  },
+  {
+    "id": 1781161171571,
+    "sender": "Messi",
+    "text": "What about you?",
+    "timestamp": "12:44:31 PM"
+  },
+  {
+    "id": 1781161184043,
+    "sender": "Cr7",
+    "text": "Im also doing well.",
+    "timestamp": "12:44:44 PM"
+  }
+]
